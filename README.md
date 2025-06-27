@@ -1,6 +1,6 @@
 # Ubuntu Tour
 
-Web based Ubuntu 22.04 desktop remake. You can try latest ubuntu edition remake from [here](https://malisipi.github.io/ubuntu-tour/)
+Web based Ubuntu 22.04 desktop remake. You can try latest ubuntu edition remake from [here](https://dhaneshjoshi.github.io/ubuntu-tour/)
 
 ## Features
 
@@ -15,7 +15,7 @@ Web based Ubuntu 22.04 desktop remake. You can try latest ubuntu edition remake 
 For introduce the Ubuntu environment' beauty (on web) and for fun. :) I was inspired from [tour.ubuntu.com
 ](https://github.com/canonical-web-and-design/tour.ubuntu.com) (however not used code from this project)
 
-## You can [try it!](https://malisipi.github.io/ubuntu-tour/)
+## You can [try it!](https://dhaneshjoshi.github.io/ubuntu-tour/)
 
 ### Also thanks to 9to5Linux about [new that relased about the project](https://9to5linux.com/ubuntu-online-21-10-released-lets-you-try-ubuntu-desktop-in-a-web-browser).
 
@@ -30,7 +30,7 @@ For introduce the Ubuntu environment' beauty (on web) and for fun. :) I was insp
 
  You can present your demo app with that project.
 
-> `https://malisipi.github.io/ubuntu-tour/?[`name`,`location`,`icon`]`
+> `https://dhaneshjoshi.github.io/ubuntu-tour/?[`name`,`location`,`icon`]`
 
 * name: Your app's name
 * icon: Your app's icon
@@ -38,7 +38,7 @@ For introduce the Ubuntu environment' beauty (on web) and for fun. :) I was insp
 
 > You can't send notification or create a new window. Because your app demo that hosted on another domain will be blocked by CORS policy. If you need to create a more powerful app demo, You can host the project with together your app demo.
 
-> https://malisipi.github.io/ubuntu-tour/?[%22Ubuntu-Tour%22,%22https://malisipi.github.io/ubuntu-tour/%22,%22https://malisipi.github.io/ubuntu-tour/icons/Suru/Suru/scalable/places/start-here-symbolic.svg%22]
+> https://dhaneshjoshi.github.io/ubuntu-tour//?[%22Ubuntu-Tour%22,%22https://dhaneshjoshi.github.io/ubuntu-tour/%22,%22https://dhaneshjoshi.github.io/ubuntu-tour/icons/Suru/Suru/scalable/places/start-here-symbolic.svg%22]
 
 ## Notes
 
